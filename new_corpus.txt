@@ -1,0 +1,1372 @@
+   {
+      "id": "1",
+      "lemma": "next",
+      "sentence1": "Any contribution received after this date will be recorded in the accounts for the next year, 1999.",
+      "arabic": "المقبلة",
+      "sentence2": "والواقع أننا نقترح أن يتخذ قرار بشأن هذا المقترح في جلستنا العامة  المقبلة."
+   },
+   {
+      "id": "2",
+      "lemma": "next",
+      "sentence1": "Any contribution received after this date will be recorded in the accounts for the next year, 1999.",
+      "arabic": "المقبلة",
+      "sentence2": "وأعرب عن ارتياح ألمانيا للمبادرات التي قامت بها اللجنة في هذا اﻻتجاه، وهي تأمل أن يتسنى لها أن تنظر في نتائج أعمالها في دورتها المقبلة و، بالتأكيد، أن تعتمدها."
+   },
+   {
+      "id": "3",
+      "lemma": "letter",
+      "sentence1": "By letter dated 17 November 1997, the Special Rapporteur transmitted to the Government the following cases.",
+      "arabic": "رسالتها",
+      "sentence2": "وفيما يتعلق بالمسائل التي طرحتها الحكومة في رسالتها المؤرخة في ٤ تشرين اﻷول/أكتوبر ٦٩٩١ يؤكد المقرر الخاص لحكومة كوبا أن جميع الشكاوى المقدمة إلى مكتبه تُحلّل بنفس روح النزاهة وأن كوبا ليست موضع أية معاملة متميزة."
+   },
+   {
+      "id": "4",
+      "lemma": "letter",
+      "sentence1": "By letter dated 17 November 1997, the Special Rapporteur transmitted to the Government the following cases.",
+      "arabic": "رسالتين",
+      "sentence2": "ويبدو أن رسالتين من اﻷمانة بتاريخ ٣ أيار/ مايو و ٢٦ آب/أغسطس ١٩٩٤ لم تصلاه."
+   },
+   {
+      "id": "5",
+      "lemma": "true",
+      "sentence1": "It is true that the work of special rapporteurs is usually not recognized by the Governments concerned.",
+      "arabic": "صحيح",
+      "sentence2": "وفي حين أنه صحيح أن إذاعة مجهولة الهوية لم تنفك تبث من مدينة بونيا برامج يذكر محتواها بإذاعة "الهضاب اﻷلف" (Radio Mille Collines) المشؤومة، وذلك بعد أن وقعت بونيا، بالفعل، تحت احتﻻل الجيش اﻷوغندي، فهو ﻻ يفهم كيف يمكن تحميل السلطات الكونغولية المسؤولية عن حملة الكراهية هذه."
+   },
+   {
+      "id": "6",
+      "lemma": "true",
+      "sentence1": "It is true that the work of special rapporteurs is usually not recognized by the Governments concerned.",
+      "arabic": "صحيحاً",
+      "sentence2": "ولئن كان صحيحاً أن المذكرة رقم ٩١/٧٩ ذكرت أنه "يلزم مزيد من المعلومات عن تواريخ وأوقات الزيارات بغية تسهيل المقابلات"، فإن المقررين الخاصين لم يفسرا ذلك على أنه إشارة إلى أن الحكومة لديها تحفظات بشأن هذه المسألة."
+   },
+   {
+      "id": "7",
+      "lemma": "single",
+      "sentence1": "These benefits for pregnant women and single mothers are payable from the eighth month of pregnancy to the moment when the child attains two months.",
+      "arabic": "وحيدة",
+      "sentence2": "ولم يحدث على اﻹطلاق من قبل في تاريخ اﻷعمال الخيرية تقديم هدية وحيدة بهذه الضخامة من أجل هذه القضية أو أي قضية أخرى."
+   },
+   {
+      "id": "8",
+      "lemma": "single",
+      "sentence1": "These benefits for pregnant women and single mothers are payable from the eighth month of pregnancy to the moment when the child attains two months.",
+      "arabic": "الواحد",
+      "sentence2": "وكان يتعين على السيد بربارو أن يقدم طلب استئناف خلال ١٤ يوما من قرار القاضي الواحد."
+   },
+   {
+      "id": "9",
+      "lemma": "speech",
+      "sentence1": "A careful reading of President Saddam Hussein's speech shows that these supposed threats to Kuwait are quite fictitious.",
+      "arabic": "البيان",
+      "sentence2": "ويعبر البيان الذي ألقاه السيد هوبر فيدرين، وزير خارجية فرنسا باسم الاتحاد الأوروبي، معبرا تماما عن وجهة نظر بلدي."
+   },
+   {
+      "id": "10",
+      "lemma": "speech",
+      "sentence1": "A careful reading of President Saddam Hussein's speech shows that these supposed threats to Kuwait are quite fictitious.",
+      "arabic": "الخطاب",
+      "sentence2": "وبعد عام تقريبا من ذلك الخطاب اغتيل في 15 آب/أغسطس 1975 مع معظم أفراد أسرته."
+   },
+   {
+      "id": "11",
+      "lemma": "light",
+      "sentence1": "Using a unique technique for concentrating the solar light, splitting the spectrum to various spectral bands, and using each band for direct optical pumping of different lasers near their emission band resulted in an overall efficiency of 20 per cent.",
+      "arabic": "ووفقاً",
+      "sentence2": "وفي جميع اﻷحوال ﻻ يمكن ﻷحد أن يتكلم إﻻﱠ باسم بلده ووفقاً للتعليمات التي يوجهها له بلده."
+   },
+   {
+      "id": "12",
+      "lemma": "turn",
+      "sentence1": "We are delighted that the country has now begun to turn its attention to the challenges of reconstruction and development .",
+      "arabic": "للتحول",
+      "sentence2": "ولست متيقناً من أنني مستعد للتحول من حارس للطرائد إلى صياد لها."
+   },
+   {
+      "id": "13",
+      "lemma": "affairs",
+      "sentence1": "They are pursuing and will continue in the future to pursue their own policy in international affairs.",
+      "arabic": "الشؤون",
+      "sentence2": "والحاكم مسؤول عن الشؤون الخارجية واﻷمن الداخلي والدفاع وتعيين الموظفين العامين."
+   },
+   {
+      "id": "14",
+      "lemma": "stem",
+      "sentence1": "Such perversions stem from abuse and misuse of freedom and from the deficiencies of one or several of the actors involved in the functioning of market economies, including public authorities.",
+      "arabic": "كانت نتيجة",
+      "sentence2": "وقد أدعي بأن هذه اﻻتهامات كانت نتيجة لنشر مقال بقلم السيد ليكا بشأن وثيقة وقعها وزير الدفاع."
+   },
+   {
+      "id": "15",
+      "lemma": "stem",
+      "sentence1": "Such perversions stem from abuse and misuse of freedom and from the deficiencies of one or several of the actors involved in the functioning of market economies, including public authorities.",
+      "arabic": "سببها",
+      "sentence2": "غير أن اﻷعراض اﻷخيرة سببها وضعه غير المضمون كلاجئ، وكونه ظل في السويد لمدة ست سنوات بصورة غير قانونية."
+   },
+   {
+      "id": "16",
+      "lemma": "root",
+      "sentence1": "If global development was to take root, the United Nations must play an important role through the work of its specialized agencies.",
+      "arabic": "الرئيسية",
+      "sentence2": "وفضﻻ عن ذلك، ينبغي أن تستهدف الجهود المبذولة للقضاء على الفقر القضاء على أسبابه الرئيسية فضلا عن أعراضه."
+   },
+   {
+      "id": "17",
+      "lemma": "powerful",
+      "sentence1": "The prospect of closer association with the European Union has served as a powerful tool for promoting tolerance and institutional reforms in several East and Central European countries, but few if any counterparts exist at the global level.",
+      "arabic": "قوية",
+      "sentence2": "فالسود والملونون في الكثير من المجتمعات يشكلون قبل غيرهم هدفاً للقمع الذي تمارسه الشرطة، كما يعتبر اللون أداة تمييز قوية في إقامة العدل."
+   },
+   {
+      "id": "18",
+      "lemma": "powerful",
+      "sentence1": "The prospect of closer association with the European Union has served as a powerful tool for promoting tolerance and institutional reforms in several East and Central European countries, but few if any counterparts exist at the global level.",
+      "arabic": "قوية",
+      "sentence2": "وسيكون إنشاء محكمة دائمة ﻻ مجرد أداة قوية لردع مرتكبي ما يسمى بالجرائم "العالمية"، بل سيكون أيضا إسهاما هاما في أعمال تدوين القانون الدولي وتطويره التدريجي."
+   },
+   {
+      "id": "19",
+      "lemma": "input",
+      "sentence1": "While technology was important, it was totally meaningless without the input of the human mind.",
+      "arabic": "مدخلات",
+      "sentence2": "وسوف تدار أيضا تحت هذا المشروع أعمال اﻷمم المتحدة في مجال فيروس نقص المناعة البشرية/اﻻيدز، والتنسيق بين مدخلات المكتب اﻹقليمي ﻷوروبا ورابطة الدول المستقلة وبين مدخلات المانحين اﻹضافيين."
+   },
+   {
+      "id": "20",
+      "lemma": "input",
+      "sentence1": "While technology was important, it was totally meaningless without the input of the human mind.",
+      "arabic": "المدخلات",
+      "sentence2": "ويلزم مراقبة السلسلة بأكملها من مرحلة توريد المدخلات مثل العلف إلى مرحلة تسويق المنتوج."
+   },
+   {
+      "id": "21",
+      "lemma": "read",
+      "sentence1": "As to the title, there seemed to be agreement that it should read “Competent court or authority”.",
+      "arabic": "وقرأ",
+      "sentence2": "وقرأ ممثل كولومبيا رسالــة من الرئيس إلــى رؤســاء دول وحكومات حركة عدم اﻻنحياز."
+   },
+   {
+      "id": "22",
+      "lemma": "read",
+      "sentence1": "As to the title, there seemed to be agreement that it should read “Competent court or authority”.",
+      "arabic": "اﻻطلاع",
+      "sentence2": "وتم نشر مجموعة متكاملة من ٢١ ورقة خلفية ، ينبغي اﻻطلاع عليها معا."
+   },
+   {
+      "id": "23",
+      "lemma": "claims",
+      "sentence1": "Those new posts were not therefore allocated exclusively to processing death and disability claims.",
+      "arabic": "البلاغ",
+      "sentence2": "ورأت اللجنة أن ادعاء صاحب البلاغ بأن فرض عقوبة اﻹعدام أمر غير متناسب، حيث أنه لم يُقتل أو يُجرح أي شخص أثناء السرقة، يمكن أن يثير مسائل بموجب الفقرة ٢ من المادة ٦، من العهد، وأن ادعاءه بأن الشرطة قامت بتعذيبه ﻹكراهه على اﻹدﻻء بأقوال يمكن أن يثير مسائل بموجب المادة ٧ من العهد التي ينبغي النظر فيها على أساس الوقائع الموضوعية."
+   },
+   {
+      "id": "24",
+      "lemma": "Envelopes",
+      "sentence1": "Envelopes rather than ballot boxes were used for receiving the ballots.",
+      "arabic": "مظروف",
+      "sentence2": "وذكر أيضا أن الممارسة المتمثلة في تقديم العروض كتابيا في مظروف مختوم لا تتفق مع عملية المناقصة العلنية."
+   },
+   {
+      "id": "25",
+      "lemma": "tribes",
+      "sentence1": "As for the Turkic tribes from whom the modern-day Azerbaijani community is descended, they began to arrive in Transcaucasia between the eleventh and thirteenth centuries of the Common Era.",
+      "arabic": "القبائل",
+      "sentence2": "وعموما، فإن سياسة التهجم على أفراد بعض القبائل وقتلهم وتشريدهم قسريا لا تدل على وجود نية محددة للإبادة الكلية أو الجزئية لجماعة تميزها مقومات عرقية أو إثنية أو قومية أو دينية معينة."
+   },
+   {
+      "id": "26",
+      "lemma": "offensive",
+      "sentence1": "The State party maintains, in addition, that the complaint contains offensive and defamatory remarks about the institutions of the Tunisian State, such as the complainant's statement that the entire administration is at the beck and call of the police apparatus, which turns the State into an effective instrument of torture.",
+      "arabic": "الهجومية",
+      "sentence2": "مرتكب جريمة حمل الأسلحة البيضاء الهجومية بشكل غير مشروع هو كل شخص يحمل أسلحة من هذه الفئة."
+   },
+   {
+      "id": "27",
+      "lemma": "virtues",
+      "sentence1": "She agreed that some traditions ascribed positive virtues, such as wisdom and steadfastness, to women.",
+      "arabic": "بموجبه",
+      "sentence2": "والحق في التنمية هو أحد حقوق الإنسان الذي بموجبه "يحق لكل إنسان ولجميع الشعوب المشاركة والإسهام في تحقيق تنمية"."
+   },
+   {
+      "id": "28",
+      "lemma": "delivered",
+      "sentence1": "In the past 20 years about 99.4—99.6 per cent of all children were delivered in maternity hospitals or health centres, with 99.6-99.7 per cent in cities and towns, and 98.8—99.3 per cent in the rural areas.",
+      "arabic": "تقدم",
+      "sentence2": "وثمة جامعات كثيرة تقدم دورات مختارة عن طريق فروع الحرم الجامعي الموجودة في مراكز إقليمية."
+   },
+   {
+      "id": "29",
+      "lemma": "delivered",
+      "sentence1": "In the past 20 years about 99.4—99.6 per cent of all children were delivered in maternity hospitals or health centres, with 99.6-99.7 per cent in cities and towns, and 98.8—99.3 per cent in the rural areas.",
+      "arabic": "إعطاء",
+      "sentence2": "وإذا لم تكن مداوﻻتنا قادرة على إعطاء نتائج فإننا لن نتردد عندئذ في تغييرها."
+   },
+   {
+      "id": "30",
+      "lemma": "grants",
+      "sentence1": "Under the Law, grants covering from 30 to 60 per cent of the estimated cost of research and development were also available.",
+      "arabic": "والمنح",
+      "sentence2": "وما زال يتزايد عدد الطلبة المستحقين للمساعدة الطلابية في كولومبيا البريطانية، وتتزايد أيضاً قيمة القروض والمنح التي تقدم إليهم."
+   },
+   {
+      "id": "31",
+      "lemma": "proof",
+      "sentence1": "The Cyprus example was the best proof that an intense peacemaking effort must be pursued in parallel with every peacekeeping operation.",
+      "arabic": "برهان",
+      "sentence2": "هذه الآلية هي برهان على ما أظهره المؤتمر في العام الماضي من إبداع، وكانت مفيدة للغاية عندما لم تكن قد أنشئت سواء اللجنة المخصصة للتفاوض بشأن معاهدة وقف إنتاج المواد الانشطارية أو هيئة فرعية للتداول بشأن الجوانب العامة لنزع السلاح النووي."
+   },
+   {
+      "id": "32",
+      "lemma": "highly",
+      "sentence1": "This is a highly important step for the strengthening of this Convention.",
+      "arabic": "للغاية",
+      "sentence2": "ووجود أسواق مالية متقدمة للغاية يشجع جرائم معينة وﻻ سيما جريمة المطلع على اﻷسرار."
+   },
+   {
+      "id": "33",
+      "lemma": "highly",
+      "sentence1": "This is a highly important step for the strengthening of this Convention.",
+      "arabic": "بالغة",
+      "sentence2": "فهي مسألة تتسبب أحيانا في منازعات بالغة التعقيد بين الدول."
+   },
+   {
+      "id": "34",
+      "lemma": "progression",
+      "sentence1": "The examination of the statistics of its development show a certain progression in the number and the amount of the credit, and also in the proportion of women benefiting from 1991 to 1999; but from that point on, there is a regular and continuous drop in these indicators.",
+      "arabic": "تقدم",
+      "sentence2": "وعلينا أيضا وضع قواعد إجرائية جديدة لتعزيز تقدم عملنا بانتظام."
+   },
+   {
+      "id": "35",
+      "lemma": "produce",
+      "sentence1": "Internal acts could produce international effects, such as the determination of the extent of maritime jurisdiction (territorial sea, ports regime, access by other Powers to the national waters of a State).",
+      "arabic": "تنتج",
+      "sentence2": "وفي سوق المنتجات، يمكن للمنافسة بين الشركات التي تنتج نفس المنتج، أو بدائل مشابهة، أن تؤثر بأشكال متغايرة على أداء الشركة، تبعاً لهيكل السوق وطبيعة سياسة المنافسة المتبعة."
+   },
+   {
+      "id": "36",
+      "lemma": "produce",
+      "sentence1": "Internal acts could produce international effects, such as the determination of the extent of maritime jurisdiction (territorial sea, ports regime, access by other Powers to the national waters of a State).",
+      "arabic": "إنتاج",
+      "sentence2": "ويبدو أن مدمني المخدرات يفضلون سرقة المال أو إنتاج مخدراتهم على ممارسة البغاء."
+   },
+   {
+      "id": "37",
+      "lemma": "assumptions",
+      "sentence1": "The data would be used to test assumptions -- including the assumption that women were available to provide caring services at home and in the community -- and would help to identify areas where discrimination persisted.",
+      "arabic": "اﻻفتراض",
+      "sentence2": "وﻻ بد أن اﻻفتراض الكامن الذي يفسر نقص التوجيه في مجال التحرير هو أن المشورة الدولية ينبغي أن تنحصر في المسائل المعروفة للمكاتب اﻹحصائية الوطنية."
+   },
+   {
+      "id": "38",
+      "lemma": "assumptions",
+      "sentence1": "The data would be used to test assumptions -- including the assumption that women were available to provide caring services at home and in the community -- and would help to identify areas where discrimination persisted.",
+      "arabic": "اﻻفتراضات",
+      "sentence2": "ولفت اﻻنتباه إلى ضرورة توخي الحذر إزاء اﻻفتراضات التي تقوم عليها الدراسة المقارنة ﻷنها ﻻ تراعي اعتبارات رئيسية مثل إعادة تشكيل الخدمة المدنية اﻷلمانية ونشوء اﻻتحاد اﻷوروبي."
+   },
+   {
+      "id": "39",
+      "lemma": "subscribers",
+      "sentence1": "The percentage of mobile telephone subscribers continues to increase in most least developed countries, from an average of 2.8 mobile subscribers per 100 inhabitants in 2004 to 20.9 subscribers per 100 inhabitants in 2008, and has not been affected by the economic crisis.",
+      "arabic": "مشترك",
+      "sentence2": "وإضافة إلى ذلك، أصبح لدى مكتب التقرير أكثر من 000 13 مشترك في خدمة البريد الإلكتروني يتلقون بانتظام آخر المستجدات بشأن أوراق المعلومات الأساسية وآخر مستجدات المدونة وإعلانات التشاور، وكذلك عندما تنشر مواد جديدة على موقع التقرير."
+   },
+   {
+      "id": "40",
+      "lemma": "analysed",
+      "sentence1": "Adequate disaggregated data should be gathered and analysed in order to assess progress achieved in the realization of children's rights and to help in defining policies to better implement the provisions of the Convention.",
+      "arabic": "بإجراء تحليل",
+      "sentence2": "وسيقوم مرصد منطقة الساحل وشركاؤه، من أجل أخذ ما هو قائم في اﻻعتبار، بإجراء تحليل أولي واستغلال المعلومات المتاحة على المستويين الدولي واﻻقليمي."
+   },
+   {
+      "id": "41",
+      "lemma": "jungle",
+      "sentence1": "The soil of the slopes is thin as a result of leaching and can support only jungle vegetation.",
+      "arabic": "الغاب",
+      "sentence2": "وفي غياب سيادة القانون ستتغلب سيادة الإنسان أو سيادة الغوغاء أو قانون الغاب."
+   },
+   {
+      "id": "42",
+      "lemma": "jungle",
+      "sentence1": "The soil of the slopes is thin as a result of leaching and can support only jungle vegetation.",
+      "arabic": "الكم الهائل",
+      "sentence2": "وبالمثل، سيصبح عملنا اليومي أكثر شفافية وتركيزا عندما نرشد هذا الكم الهائل من التقارير والاجتماعات."
+   },
+   {
+      "id": "43",
+      "lemma": "conservation",
+      "sentence1": "There is a focus on measures to promote energy efficiency and energy conservation in the large industrial units and in residential heating - accounting for three quarters of the energy end-use.",
+      "arabic": "لصون",
+      "sentence2": "إن إحدى القضايا الحاسمة التي تواجه مبادرة التجارة اﻷحيائية هي كيفية ترجمة المنافع المستقبلية غير المؤكدة لصون التنوّع اﻷحيائي إلى تحالفات للقطاع الخاص من أجل التجارة اﻷحيائية والتنمية."
+   },
+   {
+      "id": "44",
+      "lemma": "conservation",
+      "sentence1": "There is a focus on measures to promote energy efficiency and energy conservation in the large industrial units and in residential heating - accounting for three quarters of the energy end-use.",
+      "arabic": "حفظ",
+      "sentence2": "ويجب التقليل من إزالة اﻷحراج ﻷقصى حد، باتباع سياسة منسقة من أجل فعالية حفظ واستخدام الموارد الحرجية الباقية."
+   },
+   {
+      "id": "45",
+      "lemma": "licences",
+      "sentence1": "Applications for licences to pursue medical activities have been submitted, according to June 1997 figures, by 100 institutions.",
+      "arabic": "تراخيص",
+      "sentence2": "أوصت حلقات العمل بأن تتقرر اجراءات اصدار تراخيص اﻷسلحة النارية تبعا لمستوى التطور اﻻداري الذي وصلت اليه منطقة معينة في هذا الشأن."
+   },
+   {
+      "id": "46",
+      "lemma": "licences",
+      "sentence1": "Applications for licences to pursue medical activities have been submitted, according to June 1997 figures, by 100 institutions.",
+      "arabic": "ترخيص",
+      "sentence2": "وتتراوح التدابير الموصى بها بين الغاء ترخيص السلاح الناري وفرض جزاءات عقابية شديدة ."
+   },
+   {
+      "id": "47",
+      "lemma": "yield",
+      "sentence1": "The Court should be independent and impartial and should not yield to political influences.",
+      "arabic": "أسفرت",
+      "sentence2": "وإذا ما أسفرت بحوثنا عن نتائج ايجابية، فسنمضي إلى تقديم توصيات في هذا الشأن إلى الرئيس القادم، الذي سيكون، كما يعرف الجميع، من إكوادور، لإدراجها في التقرير الذي سيتم إعداده عن هذه الدورة."
+   },
+   {
+      "id": "48",
+      "lemma": "yield",
+      "sentence1": "The Court should be independent and impartial and should not yield to political influences.",
+      "arabic": "سيفتح",
+      "sentence2": "وبالمثل، فإننا ﻻ نعتقد بأن حدوث تغيير في موقف أحد البلدان سيفتح الطريق فجأة أمام توافق اﻵراء."
+   },
+   {
+      "id": "49",
+      "lemma": "electric",
+      "sentence1": "The electric power sector of developing countries faces a formidable array of new challenges.",
+      "arabic": "الكهربائية",
+      "sentence2": "وتُستعمَل المراوح الكهربائية لتبريد الهواء في عدد من المنازل يبلغ تقريبا 508 109."
+   },
+   {
+      "id": "50",
+      "lemma": "offended",
+      "sentence1": "When the first author indicated that the letter had offended her, the judge responded "you have to admit, you Roma do steal though".",
+      "arabic": "تشّكل انتهاكا",
+      "sentence2": "وإن أفعال أفراد حفظ السلام التي تشّكل انتهاكا لقواعد السلوك المنصوص عليها وتعوق حياة أشخاص هم أصلا ضعفاء، هي أفعال خاطئة من أساسها."
+   },
+   {
+      "id": "51",
+      "lemma": "owing",
+      "sentence1": "Actual expenditures were higher by $28,600, despite the deployment of fewer troops, owing to the decision to charge the repatriation of the Indonesian engineering battalion to UNPF ($40,000).",
+      "arabic": "ونظرا",
+      "sentence2": "غير أنه منذ آيار/مايو ١٩٩٦، ونظرا للقيود المالية، توقفت الوحدة عن اﻹضطلاع بمشاريع جديدة."
+   },
+   {
+      "id": "52",
+      "lemma": "owing",
+      "sentence1": "Actual expenditures were higher by $28,600, despite the deployment of fewer troops, owing to the decision to charge the repatriation of the Indonesian engineering battalion to UNPF ($40,000).",
+      "arabic": "نتيجة",
+      "sentence2": "وفي مواجهة هذه المطالبة ، تقدم المدعى عليه بمطالبة للتعويض عن الربح المفقود نتيجة ﻻنهاء علاقة العمل مع المدعي ، ورفض الدفع."
+   },
+   {
+      "id": "53",
+      "lemma": "means",
+      "sentence1": "It was stated that the assignor could be protected from inaccurate registrations through other means, such as the registration of a notice warning parties that there was a dispute as to the registration and a rule providing for penalties against assignees for inaccurate registrations.",
+      "arabic": "كوسيلة",
+      "sentence2": "وينبغي عدم استخدام المعلومات كوسيلة للسيطرة أو فرض ثقافة أو أيديولوجية معينة على البلدان اﻷخرى."
+   },
+   {
+      "id": "54",
+      "lemma": "tricky",
+      "sentence1": "The Group of 77 and China had displayed flexibility on that tricky issue and hoped that the text would attract increasing support in coming years.",
+      "arabic": "الخطيرة",
+      "sentence2": "وبالمثل، لم يتم إحراز تقدم يذكر في توفير تخفيف حقيقي لعبء الديون، ولا يحتمل أن يؤدي النهج التدريجي حيال هذه المشكلة الخطيرة إلى تحقيق النتائج المنشودة."
+   },
+   {
+      "id": "55",
+      "lemma": "tricky",
+      "sentence1": "The Group of 77 and China had displayed flexibility on that tricky issue and hoped that the text would attract increasing support in coming years.",
+      "arabic": "التعقُّد",
+      "sentence2": "إلا أن الأوضاع تتجه إلى التعقُّد إذا سعت النساء المتزوجات إلى الاستفادة من أرض آبائهن."
+   },
+   {
+      "id": "56",
+      "lemma": "series",
+      "sentence1": "A series of UNIDIR informal discussions meetings in 1998 are focused on the problems within the Conference on Disarmament.",
+      "arabic": "سلسلة",
+      "sentence2": "محور أنشطة الرابطة هو سلسلة المؤتمرات التي تعقد مرة كل سنتين، ومن أجلها تعد الرابطة تقارير لمناقشتها وغالبا ما أسفرت عن صدور قرارات كان لها تأثير ملموس على تطوير القانون الدولي."
+   },
+   {
+      "id": "57",
+      "lemma": "previous",
+      "sentence1": "I would also like to express my appreciation to Ambassador Dembinski, the previous President of the Conference, for the exemplary way in which he carried out his important functions.",
+      "arabic": "السابقة",
+      "sentence2": "وإذ تشير في هذا السياق إلى قراراتها السابقة، وبصفة خاصة القرارات ٤٥/٥٥ باء المؤرخ ٤ كانون اﻷول/ديسمبر ١٩٩٠، و ٤٧/٥١ المؤرخ ٩ كانون اﻷول/ديسمبر ١٩٩٢، و ٤٨/٧٤ ألف المؤرخ ١٦ كانون اﻷول/ ديسمبر ١٩٩٣، التي أكدت فيها من جديد، في جملة أمور، أهمية تدابير بناء الثقة كوسيلة تفضي إلى ضمان بلوغ هدف منع حدوث سباق تسلح في الفضاء الخارجي."
+   },
+   {
+      "id": "58",
+      "lemma": "particular",
+      "sentence1": "Any attempt to exclude particular indigenous peoples from the protection of the draft declaration was opposed.",
+      "arabic": "بصفة خاصة",
+      "sentence2": "واسترعى اﻻنتباه بصفة خاصة إلى تغيير دستوري كبير أجري من عهد قريب قضى بتفويض السلطة اﻹدارية إلى مجالس المقاطعات استجابة لمطالب اﻷقليات، وبجعل التاميل لغة رسمية."
+   },
+   {
+      "id": "59",
+      "lemma": "needs",
+      "sentence1": "In many places, the urban structures and also the design of housing are not yet sufficiently geared to the needs of children.",
+      "arabic": "ضرورة",
+      "sentence2": "ويود اﻻتحاد اﻷوروبي أن يؤكد على ضرورة عقد مؤتمر إقليمي عن السلام واﻷمن واﻻستقرار في منطقة البحيرات الكبرى، برعاية اﻷمم المتحدة ومنظمة الوحدة اﻹفريقية."
+   },
+   {
+      "id": "60",
+      "lemma": "attached",
+      "sentence1": "The World Conference on Human Rights attached great importance to this subject, including by setting the goal of universal ratification of the basic human rights treaties.",
+      "arabic": "تُرفق",
+      "sentence2": "ويجب أن تُرفق الوثيقة التي يعرض فيها وجهة نظره بالوثيقة المطعون فيها."
+   },
+   {
+      "id": "61",
+      "lemma": "recognized",
+      "sentence1": "In its total disregard for international law and the decisions of the world community, Turkey was the only Member State which recognized the illegal regime that it had established by force on Cyprus 23 years ago.",
+      "arabic": "واعترفت",
+      "sentence2": "وقال إن اﻷرجنتين كانت من أولى الدول التي طبَّعت علاقاتها الدبلوماسية مع جمهورية الصين الشعبية، واعترفت بتلك الحكومة بوصفها الحكومة الشرعية الوحيدة للصين، بما فيها تايوان، التي هي جزء من إقليم الصين."
+   },
+   {
+      "id": "62",
+      "lemma": "recognized",
+      "sentence1": "In its total disregard for international law and the decisions of the world community, Turkey was the only Member State which recognized the illegal regime that it had established by force on Cyprus 23 years ago.",
+      "arabic": "يعترف",
+      "sentence2": "وأضاف أن بلده يعترف بصين واحدة وشعب صيني واحد وحكومة صينية واحدة مقرها في بيجينغ."
+   },
+   {
+      "id": "63",
+      "lemma": "agreed",
+      "sentence1": "His delegation welcomed the news that the Government of the Democratic Republic of the Congo had agreed to accept the Secretary-General’s Investigative Team on alleged violations of international humanitarian law, and hoped that that spirit of cooperation would extend to other humanitarian operations on the ground, including the re-establishment of sound working relationships between the Office and all the States of the Great Lakes region.",
+      "arabic": "نوافق",
+      "sentence2": "نوافق بوجه عام على التعريف المقترح للجسم الفضائي الجوي بقدر ما يكون الجسم الفضائي الجوي بصدد القيام برحلة فضائية."
+   },
+   {
+      "id": "64",
+      "lemma": "agreed",
+      "sentence1": "His delegation welcomed the news that the Government of the Democratic Republic of the Congo had agreed to accept the Secretary-General’s Investigative Team on alleged violations of international humanitarian law, and hoped that that spirit of cooperation would extend to other humanitarian operations on the ground, including the re-establishment of sound working relationships between the Office and all the States of the Great Lakes region.",
+      "arabic": "وافق",
+      "sentence2": "كما وافق على اﻻستنتاجات التي توصل إليها الفريق العامل الذي أنشئ لدراسة الموضوع، وحث الدول على إبداء وجهات نظرها حول الموضوع."
+   },
+   {
+      "id": "65",
+      "lemma": "fire",
+      "sentence1": "Between 1700 and 1850 hours Israeli forces and the client militia directed several bursts of fire at the area around Qasr Ghandur in Nabatiyah and at Wadi Bisri from their positions on Ali al-Tahir hill and Anan hill.",
+      "arabic": "نارية",
+      "sentence2": "بين الساعة ٠٠/١٥ والساعة ١٠/١٨ أطلقت الميليشيا العميلة من مركزها في تلة سجد عدة رشقات نارية باتجاه تلة مليتا."
+   },
+   {
+      "id": "66",
+      "lemma": "fire",
+      "sentence1": "Between 1700 and 1850 hours Israeli forces and the client militia directed several bursts of fire at the area around Qasr Ghandur in Nabatiyah and at Wadi Bisri from their positions on Ali al-Tahir hill and Anan hill.",
+      "arabic": "النار",
+      "sentence2": "وادعى الجنود أنهم أطلقوا النار على الشاحنة بعد أن انحرفت فجأة وصدمت أحد الجنود، فأصابته بإصابات خفيفة، اﻷمر الذي دفعهم للاعتقاد بأنهم كانوا يتعرضون لهجوم."
+   },
+   {
+      "id": "67",
+      "lemma": "extraneous",
+      "sentence1": "Such notions are not only extraneous to the Algiers Peace Agreement, but, if they were to become operational, would actually subvert and derail the peace process and significantly contribute to tension and conflict.",
+      "arabic": "دخيلة",
+      "sentence2": "بيد أن استراليا لم تستطع أن تؤيد مشروع القرار ككل بسبب اللغة المستخدمة في مكان آخر من النص والتي حولت تركيزه إلى قضايا دخيلة."
+   },
+   {
+      "id": "68",
+      "lemma": "extraneous",
+      "sentence1": "Such notions are not only extraneous to the Algiers Peace Agreement, but, if they were to become operational, would actually subvert and derail the peace process and significantly contribute to tension and conflict.",
+      "arabic": "دخيلة",
+      "sentence2": "ونشعر بخيبة الأمل لأنه يجري اللجوء لأسباب دخيلة من جانب بعض الدول الحائزة على الأسلحة النووية لحرمان الدول غير الحائزة لهذه الأسلحة من حقوقها في الاستخدامات السلمية للطاقة النووية والتكنولوجيا النووية."
+   },
+   {
+      "id": "69",
+      "lemma": "cover",
+      "sentence1": "This means that four fifths of the social assistance recipients were in receipt of assistance to cover living expenses and about 40 per cent were given assistance in special circumstances, in some cases in addition to the first—mentioned assistance to cover living expenses.",
+      "arabic": "ويغطي",
+      "sentence2": "ويغطي تمويل التعليم من ميزانية الدولة ٤,٤٩ في المائة من اﻻنفاق على التعليم."
+   },
+   {
+      "id": "70",
+      "lemma": "chapter",
+      "sentence1": "Therefore, his delegation strongly urged the Commission to revise article 40 and Part Two, chapter II, of the draft articles.",
+      "arabic": "الفصل",
+      "sentence2": "ويوجز الفصل الثالث القضايا المتوقع النظر فيها عند تشجيع التنمية الموجهة نحو الطفل للمستوطنات البشرية والاستراتيجيات ذات الصلة."
+   },
+   {
+      "id": "71",
+      "lemma": "chapter",
+      "sentence1": "Therefore, his delegation strongly urged the Commission to revise article 40 and Part Two, chapter II, of the draft articles.",
+      "arabic": "فصول",
+      "sentence2": "وقررت الجمعية العامة اختتام نظرها في جميع فصول تقرير المجلس اﻻقتصادي واﻻجتماعي المحال إلى اللجنة الثالثة."
+   },
+   {
+      "id": "72",
+      "lemma": "weighty",
+      "sentence1": "I am sure you are aware that such a weighty subject merits careful and unhurried consideration.",
+      "arabic": "الثقيلة",
+      "sentence2": "وسوف تواجه هذه الحكومة المسؤوليات الثقيلة المتعلقة بتعزيز البرنامج العام للأخذ بالديمقراطية المنصوص عليه في اتفاقات السلام."
+   },
+   {
+      "id": "73",
+      "lemma": "age",
+      "sentence1": "A supplement is also available for each child under the age of 18.",
+      "arabic": "لِسِنّ",
+      "sentence2": "وينبغي لِسِنّ الموافقة على ممارسة الجنس والزواج أنْ تكون متناسبة فيما بين الذكور واﻹناث، كما ينبغي للقانون أنْ يحمي حق المرأة والفتاة في رفض الزواج والعلاقات الجنسية."
+   },
+   {
+      "id": "74",
+      "lemma": "classes",
+      "sentence1": "Regular secondary education is free for full-time students and part-time students do not attend classes and pay for the exams they take.",
+      "arabic": "الدرجة",
+      "sentence2": "ويؤدي هذا إلى الخلوص بأن المحكمة الدولية لرواندا تعامل ضحايا العنف الجنسي باعتبارهم "مواطنين من الدرجة الثانية"، بالمقارنة بنظرائهم في ﻻهاي."
+   },
+   {
+      "id": "75",
+      "lemma": "classes",
+      "sentence1": "Regular secondary education is free for full-time students and part-time students do not attend classes and pay for the exams they take.",
+      "arabic": "فئة",
+      "sentence2": "فنظام المعاهدة يخلي الفضاء الخارجي من أي فئة من الأسلحة برمتها، وهي أسلحة القذائف المضادة للقذائف التسيارية."
+   },
+   {
+      "id": "76",
+      "lemma": "result",
+      "sentence1": "Authorities confirmed that he had died as a result of a car accident (10 January 1967).",
+      "arabic": "نتائج",
+      "sentence2": "ويتبين من نتائج استقصاء لمرافق التدريب أجري مؤخرا أن عدد العاملين الذين يدربون في الخارج يزيد على عدد من يجري تدريبهم داخل افريقيا."
+   },
+   {
+      "id": "77",
+      "lemma": "territories",
+      "sentence1": "His delegation hoped that Israel would take measures to lift the closure of territories without further delay.",
+      "arabic": "باﻷقاليم",
+      "sentence2": "ففي الواقع ﻻ يوجد أي سبب لربط جمهورية مقدونيا باﻷقاليم المتنازعة في هذه المنطقة وباﻻنتهاكات الفادحة لحقوق اﻹنسان التي ترتكب فيها."
+   },
+   {
+      "id": "78",
+      "lemma": "territories",
+      "sentence1": "His delegation hoped that Israel would take measures to lift the closure of territories without further delay.",
+      "arabic": "اﻷرض",
+      "sentence2": "فمن كانون الثاني/يناير إلى مطلع أيلول/سبتمبر، تم هدم نحو مائة منزل فلسطيني في اﻷرض المحتلة."
+   },
+   {
+      "id": "79",
+      "lemma": "study",
+      "sentence1": "In the 1996/97 school year, UNRWA elementary and preparatory schools in the West Bank and Gaza Strip utilized study plans and textbooks prescribed by the Palestinian Authority, with textbooks procured for the first time in Gaza.",
+      "arabic": "ودراسات",
+      "sentence2": "وتعرب اللجنة عن قلقها أيضاً إزاء عدم توافر بيانات احصائية ودراسات بشأن هؤﻻء اﻷطفال."
+   },
+   {
+      "id": "80",
+      "lemma": "field",
+      "sentence1": "Consequently, under the legal arrangements applicable to the Wafra oil field, the Panel determines that the indirect costs allocable to Wafra, in the estimated amount of US$250,000, are not compensable.",
+      "arabic": "ميدان",
+      "sentence2": "وتهدف بيلاروس إلى إحراز مزيد من التقدم في ميدان نزع السلاح، وبخاصة عن طريق حظــر اﻷسلحة الكيميائية، والبكتريولوجية (البيولوجية) وغيرها من اﻷسلحة السمية، ووضع حد ﻹجراء البحوث للتوصل إلى أسلحة جديدة للدمار الشامل، ومنع حدوث سباق على التسلح في الفضاء."
+   },
+   {
+      "id": "81",
+      "lemma": "free",
+      "sentence1": "In addition, the court had requested the State to provide free education for the family.",
+      "arabic": "أحرارا",
+      "sentence2": "وبالرغم من أن اﻹعلان العالمي لحقوق اﻹنسان ينص على أن جميع الناس يولدون أحرارا ومتساوين في الكرامة والحقوق، وأن لكل إنسان حق التمتع بجميع الحقوق والحريات المذكورة فيه، دون تمييز من أي نوع، وﻻ سيما التمييز بسبب العنصر أو اللون أو اﻷصل الوطني، فإن هذا المبدأ ينتهك يوميا."
+   },
+   {
+      "id": "82",
+      "lemma": "free",
+      "sentence1": "In addition, the court had requested the State to provide free education for the family.",
+      "arabic": "حر",
+      "sentence2": "وتﻻحظ اللجنة أن حريتي اﻹعﻻم والتعبير دعامتان أساسيتان في أي مجتمع حر وديمقراطي."
+   },
+   {
+      "id": "83",
+      "lemma": "Declaration",
+      "sentence1": "In that regard, the Rio Group stressed the commitments made in the Declaration of Principles, Plan of Action and the agreements reached during the Summit of the Americas on Sustainable Development, held in December 1996, in Santa Cruz de la Sierra, Bolivia.",
+      "arabic": "اﻹعلان",
+      "sentence2": "بيد أنه ينبغي أن يعكس اﻹعلان وجود أشكال مختلفة عديدة من الحقوق في اﻷرض في العالم."
+   },
+   {
+      "id": "84",
+      "lemma": "application",
+      "sentence1": "Such politicization of human rights and the application of double standards simply helped to create cynicism.",
+      "arabic": "تطبيقات",
+      "sentence2": "وكذلك وَجَدَت تلك المعلومات الرقمية، المتوافقة مع معظم نظم المعلومات الجغرافية، مكانها في تطبيقات جديدة يذكر منها الاتصالات عن بعد، ولا سيما في تركيب شبكات الهاتف الخَلَوية التي تتطلب معرفة دقيقة بالتضاريس وبأوجه استخدام الأراضي."
+   },
+   {
+      "id": "85",
+      "lemma": "regard",
+      "sentence1": "In that regard it welcomed the statement of the President of the Security Council of 28 March 1996 concerning meetings of troop-contributing countries.",
+      "arabic": "الصدد",
+      "sentence2": "وفي هذا الصدد كان للحرائق اﻻجرامية في مولين شحنة رمزية قوية."
+   },
+   {
+      "id": "86",
+      "lemma": "values",
+      "sentence1": "But success in dialogue and negotiation presupposes the practice by each of the protagonists of the basic values of honesty, sincerity, good faith and a sincere desire to put an end to violence.",
+      "arabic": "القيم",
+      "sentence2": "ولو نظر الى التنمية من هذا المنظور، لتبين أنها نسيج عجيب معقد لحمته اﻵمال والمخاوف وسداه القيم والمعتقدات التي تثري الجهد البشري أيما إثراء."
+   },
+   {
+      "id": "87",
+      "lemma": "close",
+      "sentence1": "As a result of this close cooperation, it has become clear that the Convention could and should pursue development of certain areas before IFF concludes.",
+      "arabic": "الوثيق",
+      "sentence2": "ويعمل أعضاء المنظمة بالتنسيق الوثيق مع الممثلين الخاصين لﻷمين العام في عدد من مناطق اﻻضطرابات."
+   },
+   {
+      "id": "88",
+      "lemma": "locked",
+      "sentence1": "The prisoner is locked in his cell, on average 23 hours a day, with no educational opportunities, work or reading materials.",
+      "arabic": "حبس",
+      "sentence2": "ويذكر كذلك أنه قد حبس في زنزانته بدون ماء حتى يوم الجمعة ٧ أيار/ مايو ٣٩٩١."
+   },
+   {
+      "id": "89",
+      "lemma": "solutions",
+      "sentence1": "The problems which the United Nations has encountered in waging peace in this uncharted territory defy simple solutions.",
+      "arabic": "حل",
+      "sentence2": "فبدون بذل جهد له ذلك النطاق واﻷهمية، وبدون إيجادحل لمشاكل أساسية من قبيل الدين الخارجي الذي تتحمله البلدان اﻻفريقية، ستعجز اﻷغلبية الساحقة من تلك البلدان عن التغلب على الصعاب الناشئة عن حالتها اﻻقتصادية الحرجة الراهنة وتراكم مشاكل اجتماعية جسيمة سببها التهميش."
+   },
+   {
+      "id": "90",
+      "lemma": "solutions",
+      "sentence1": "The problems which the United Nations has encountered in waging peace in this uncharted territory defy simple solutions.",
+      "arabic": "حلول",
+      "sentence2": "وقد بدأت المفاوضات ﻻقامة جهاز الوصل هذا ، ويجري النظر في عدة حلول ."
+   },
+   {
+      "id": "91",
+      "lemma": "reaching",
+      "sentence1": "We have actively participated in reaching important decisions to enhance peace and stability in the countries of some parts of the third world that have been plagued by civil conflicts over the past several years.",
+      "arabic": "بالتوصل",
+      "sentence2": "وتتوقف علينا اﻻستجابة لهذه التوقعات الكبيرة بالتوصل مبكرا إلى اتفاق بشأن برنامج عمل يعكس تطلعات واهتمامات بلدان وشعوب معمورتنا."
+   },
+   {
+      "id": "92",
+      "lemma": "breakdowns",
+      "sentence1": "There were also serious breakdowns in communications and cooperation between the field and headquarters.",
+      "arabic": "تحليل",
+      "sentence2": "ويرد في المرفق السادس من هذا التقرير تحليل مفصل لتلك المساهمات."
+   },
+   {
+      "id": "93",
+      "lemma": "critical",
+      "sentence1": "Decentralization of authority to the field level was seen as a critical factor.",
+      "arabic": "حاسمة",
+      "sentence2": "وقال إن حكومته ترى أن اعتماد مشروع إعلان أمر يتسم بأهمية حاسمة."
+   },
+   {
+      "id": "94",
+      "lemma": "asked",
+      "sentence1": "He asked whether particular attention had been paid to that stipulation in the implementation of the programme budget for 1996-1997, since it appeared that a number of programmes and activities had been curtailed, deferred, postponed or even cancelled.",
+      "arabic": "وطلب",
+      "sentence2": "وطلب متحدث آخر من اﻻقليم ذاته إلى حكومة أستراليا أن تتعهد للفريق العامل بالدعوة إلى عقد حلقة عمل ثالثة، وربما إلى عقد دورة أولى تجريبية لمحفل دائم للشعوب اﻷصلية في أستراليا."
+   },
+   {
+      "id": "95",
+      "lemma": "stopped",
+      "sentence1": "A male candidate had gone to court asking for the campaign to be stopped as a violation of equality for men.",
+      "arabic": "أوقف",
+      "sentence2": "ثم أوقف الدراجة وأشهر بندقية في وجهها وقال إنه لن يعيدها إلى حيث أتت إﻻ إذا جامعته."
+   },
+   {
+      "id": "96",
+      "lemma": "defence",
+      "sentence1": "The first defence witness, an acquaintance of the author, corroborated the author's story.",
+      "arabic": "الدفاع",
+      "sentence2": "ولذا فإنهم بحاجة إلى حرمان المدافعين أو محامي الدفاع، بل وحتى اﻷقارب، من الوصول إلى المحتجز لديهم."
+   },
+   {
+      "id": "97",
+      "lemma": "suppression",
+      "sentence1": "The suppression of the body’s immune system, cancer induction and genetic damage were just a few of the direct results of long-term radiation contamination of the environment.",
+      "arabic": "إخضاع",
+      "sentence2": "وبالمثل، ينبغي نبذ كل محاولات فرض حل عسكري عن طريق إخضاع الشعب الفلسطيني وقمعه بالقوة العسكرية."
+   },
+   {
+      "id": "98",
+      "lemma": "court",
+      "sentence1": "The court should have ultimate authority to decide on whether there was a case to be answered and whether to proceed or not.",
+      "arabic": "المحاكم",
+      "sentence2": "وحدثت بعض هذا الحاﻻت في عامي ٢٩٩١ و٣٩٩١، وأعلنت المحاكم عدم قانونيتها كلها."
+   },
+   {
+      "id": "99",
+      "lemma": "court",
+      "sentence1": "The court should have ultimate authority to decide on whether there was a case to be answered and whether to proceed or not.",
+      "arabic": "المحكمة",
+      "sentence2": "وفي وقت ﻻحق، خففت المحكمة حكمها إلى أربع سنوات، قضى منها سنتين في اﻻعتقال."
+   },
+   {
+      "id": "100",
+      "lemma": "berths",
+      "sentence1": "Development of new berths for cruise ships can destroy valuable coastal habitats.",
+      "arabic": "مرسى",
+      "sentence2": "وهو أكبر ميناء على الساحل الشرقي لأفريقيا، ويتضمن 21 مرسى ومنشآت كثيرة تشمل مخازن التبريد والمستودعات ومحطات الحاويات."
+   },
+   {
+      "id": "101",
+      "lemma": "accommodated",
+      "sentence1": "The refugees have been accommodated by the local population in the border region, the poorest part of Albania.",
+      "arabic": "ﻻستقبال",
+      "sentence2": "يجري، في الوقت الراهن، تشييد ١٢ زنزانة إضافية في وحدة اﻻحتجاز التابعة للمحكمة الدولية ﻻستقبال المحتجزين اﻹضافيين."
+   },
+   {
+      "id": "102",
+      "lemma": "accommodated",
+      "sentence1": "The refugees have been accommodated by the local population in the border region, the poorest part of Albania.",
+      "arabic": "ويلحق",
+      "sentence2": "ويلحق القصر الجانحون أيضا بداري اﻷطفال أو بوالدين كفيلين."
+   },
+   {
+      "id": "103",
+      "lemma": "judgement",
+      "sentence1": "He would not make any judgement about the relative value of UNCTAD as a forum vis-à-vis other possible multilateral forums for discussing such issues.",
+      "arabic": "قرارات اﻷحكام",
+      "sentence2": "وأضافت قائلـة أن قرارات اﻷحكام النهائية الصادرة من المحكمة يجب أن تكون قابلة للنفـاذ فورا ، وأن أي حكم بالسجـن ينبغي أن ينفـذ دون تغيير في دولة طرف ترضى بقبول اﻷشخاص المدانين."
+   },
+   {
+      "id": "104",
+      "lemma": "tables",
+      "sentence1": "The data can be represented in the form of tables or graphics.",
+      "arabic": "الجدول",
+      "sentence2": "ولعل الصناعات في البلدان النامية تجد في تحديدها لنهوجها اﻻستراتيجية من أجل توسيع قدرات التصدير والعرض لديها وتنويع هياكلها اﻹنتاجية والتصديرية بعض اﻹرشاد في تتبع هذه القطاعات المبينة في الجدول ١."
+   },
+   {
+      "id": "105",
+      "lemma": "superiority",
+      "sentence1": "The same article sanctions dissemination of ideas based on racial superiority, incitement to racial hatred and acts of racial violence.",
+      "arabic": "تفوقها",
+      "sentence2": "والبرمجيات الحرة المفتوحة الشيفرة يجب اعتبارها بوصفها عنصر استراتيجية إلكترونية بحكم ما يُدّعى من تفوقها التقني وأمنها وطابعها المفتوح الملازم لها وقابليتها للتكييف خاصة على صعيد معالجة البيانات من جانب المؤسسات الحكومية."
+   },
+   {
+      "id": "106",
+      "lemma": "managers",
+      "sentence1": "Women constitute 12 per cent of all deputies in the Parliament and 20 per cent among managers in decision-making positions.",
+      "arabic": "مديري",
+      "sentence2": "وينبغي أن تطمئن المراقبة الداخلية جميع مديري البرامج على سلامة اﻹطار اﻹداري وقيامه بالعمل حسب اﻷصول."
+   },
+   {
+      "id": "107",
+      "lemma": "talk",
+      "sentence1": "The headmaster tried for about five minutes to talk to the group but they still refused to leave.",
+      "arabic": "يتحدث",
+      "sentence2": "واستطاع المقرر الخاص أن يتحدث إلى بعض المحتجزين الذين اختارهم بنفسه."
+   },
+   {
+      "id": "108",
+      "lemma": "talk",
+      "sentence1": "The headmaster tried for about five minutes to talk to the group but they still refused to leave.",
+      "arabic": "التحدث",
+      "sentence2": "وفي بلجيكا، يجري تحقيق توعية اﻷطفال عن طريق الملصقات، التي تشجع اﻷطفال الضحايا على التحدث إلى أي من الناس حول ما يحدث لهم."
+   },
+   {
+      "id": "109",
+      "lemma": "custody",
+      "sentence1": "Legal aid is available to eligible applicants to take proceedings for divorce, child custody, or ancillary relief.",
+      "arabic": "الحجز",
+      "sentence2": "وقيل إن السلطات أكدت وفاته وهو رهن الحجز العسكري."
+   },
+   {
+      "id": "110",
+      "lemma": "transpired",
+      "sentence1": "It transpired from those talks that the question of establishing a regime for access to Gaza should be distinct from that of convening a Conference of High Contracting Parties.",
+      "arabic": "تبين",
+      "sentence2": "وبعدئذ، تبين أن السيارة كان يقودها السيد جورجي تودوا الذي يعمل مستشارا في سفارة الاتحاد الروسي بجمهورية الأرجنتين."
+   },
+   {
+      "id": "111",
+      "lemma": "transpired",
+      "sentence1": "It transpired from those talks that the question of establishing a regime for access to Gaza should be distinct from that of convening a Conference of High Contracting Parties.",
+      "arabic": "ويتضح",
+      "sentence2": "ويتضح من الملف أنه أفرج عنها في 25 نيسان/أبريل 2000."
+   },
+   {
+      "id": "112",
+      "lemma": "founded",
+      "sentence1": "The Estonian Gerontology and Geriatrics Association, founded in August 1997, focuses on improving the knowledge of people working with the elderly and the society as a whole about normal ageing, prevention of premature ageing, possibilities of improving the quality of life of people in need of help and assisting family members.",
+      "arabic": "أُسست",
+      "sentence2": "لقد أُسست الأمم المتحدة لصون السلام والعمل من أجل عالم أفضل."
+   },
+   {
+      "id": "113",
+      "lemma": "founded",
+      "sentence1": "The Estonian Gerontology and Geriatrics Association, founded in August 1997, focuses on improving the knowledge of people working with the elderly and the society as a whole about normal ageing, prevention of premature ageing, possibilities of improving the quality of life of people in need of help and assisting family members.",
+      "arabic": "أنشئ",
+      "sentence2": "أنشئ اﻻتحاد اﻷوروبي لمدن المؤتمرات في عام ١٩٦٣، كرابطة مهنية للمدن التي كرست في أوروبا لتكون أماكن حديثة وكفؤة تقصد ﻹقامة المؤتمرات بها، وتكون مجهزة المرافق والخدمات التي تيسر تحقيق ذلك."
+   },
+   {
+      "id": "114",
+      "lemma": "unfortunate",
+      "sentence1": "At the same time, this unfortunate incident is a reminder to us of the importance of globalism, multilateralism and international cooperation, because such terrorist activities can only be prevented through international cooperation.",
+      "arabic": "مؤسفة",
+      "sentence2": "وقد سمعنا ملاحظة مؤسفة من هذا القبيل في الجلسة العامة التي عقدت في اﻷسبوع الماضي حين قيل إن الدول النووية الخمس المعلنة تريد لمؤتمر نزع اللسلاح أن يقتصر في مناقشاته على "البنود الصغيرة" مثل اﻷلغام البرية المضادة لﻷفراد، ومعاهدة وقف انتاج المواد اﻻنشطارية."
+   },
+   {
+      "id": "115",
+      "lemma": "arguing",
+      "sentence1": "He has been arguing that the charges against him and his subsequent house arrest were politically motivated.",
+      "arabic": "وحاجت",
+      "sentence2": "وحاجت الدولة الطرف بأن ادعاءات صاحبة البلاغ غير مقبولة ﻷنها لم تستنفد وسائل اﻻنتصاف المحلية إذ كان يمكنها تقديم شكوى أمام المحكمة المحلية."
+   },
+   {
+      "id": "116",
+      "lemma": "arguing",
+      "sentence1": "He has been arguing that the charges against him and his subsequent house arrest were politically motivated.",
+      "arabic": "وتدعي",
+      "sentence2": "وتدعي الدولة الطرف أنه نظرا لوجود علاقة تبعية ومن ثم ﻻحتمال حدوث تعارض بين المصالح، فإن من المنطقي عدم السماح لضباط الشرطة بأن يصبحوا أعضاء في المجلس المحلي للبلدية التي يعملون بها."
+   },
+   {
+      "id": "117",
+      "lemma": "travelled",
+      "sentence1": "Her passport was returned a week before she travelled to Syria with her husband and children.",
+      "arabic": "السفر",
+      "sentence2": "ومنعت السلطات مؤخرا أيضا عددا كبيرا منهم من السفر إلى المملكة اﻷردنية الهاشمية والدول اﻷجنبية اﻷخرى بغية منعهم من لقاء أسرهم وأقاربهم في سوريا."
+   },
+   {
+      "id": "118",
+      "lemma": "differentiate",
+      "sentence1": "The Committee is also of the view that the legally accepted practice of allowing employers to differentiate between union and non-union members by giving pay rises to employees who do not join a union is incompatible with article 8 of the Covenant.",
+      "arabic": "التفرقة",
+      "sentence2": "ومن الضروري التفرقة بين إزالة اﻷلغام المتعلقة بالعمليات التي تهدف إلى تحقيق اﻷهداف المباشرة لبعثة حفظ السلام، وبين إزالة اﻷلغام المتعلقة بالنواحي اﻹنسانية والموجهة نحو أهداف طويلة اﻷجل في إطار بناء السلم بعد انتهاء الصراع."
+   },
+   {
+      "id": "119",
+      "lemma": "differentiate",
+      "sentence1": "The Committee is also of the view that the legally accepted practice of allowing employers to differentiate between union and non-union members by giving pay rises to employees who do not join a union is incompatible with article 8 of the Covenant.",
+      "arabic": "يفرِّق",
+      "sentence2": "والمشروع الحالي لا يفرِّق بين فئات الأعمال التي يمكن بوضوح اعتبارها أعمالا مركبة، مثل الإبادة الجماعية، وفئات الأعمال الأخرى التي لا يلائمها بصورة واضحة إعطاؤها مثل هذا الوصف بمقتضى القانون الدولي العرفي."
+   },
+   {
+      "id": "120",
+      "lemma": "speed",
+      "sentence1": "They have radically transformed the patterns and speed of information exchange.",
+      "arabic": "والسرعة",
+      "sentence2": "وتعد تكاليف السلع والسرعة التي تستجيب فيها إلى احتياجات السوق من العوامل الرئيسية التي تؤثر على المنافسة فيما بينها."
+   },
+   {
+      "id": "121",
+      "lemma": "exposes",
+      "sentence1": "It also exposes the intention to perpetuate the occupation, expand settlement, expropriate land and water, weaken the entire infrastructure in the occupied Syrian Arab Occupied Golan and repress and persecute its inhabitants, which emphasized the fact reiterated by the Special Committee in its reports over the last three decades that the occupation per se is a violation of human rights.",
+      "arabic": "معرضون",
+      "sentence2": "إن جميع اﻷطفال، في كل مكان في يوغوسلافيا، معرضون يوميا للصدمة واﻹجهاد، وتظهر آثار ذلك الفعلية على نحو جلي."
+   },
+   {
+      "id": "122",
+      "lemma": "terminal",
+      "sentence1": "The international nature of satellite communication services would benefit from greater international harmonization in the use of frequencies, market access policies and open and interoperable standards for user terminal equipment.",
+      "arabic": "محطة",
+      "sentence2": "وبدأ العمل أيضا في تشييد منشآت محطة منفصلة تابعة للبعثة مخصصة للمسافرين والشحن في مطار كابل الدولي."
+   },
+   {
+      "id": "123",
+      "lemma": "hazards",
+      "sentence1": "The regions of the world that are prone to natural hazards are generally well delineated, and this knowledge provides the foundation for identifying the most threatened areas within countries.",
+      "arabic": "المخاطر",
+      "sentence2": "وقوامه تحليل المخاطر البيولوجية والكيميائية والمادية، وتحديد النقاط الحرجة، ووضع الحدود المسموح بها، ومراقبة وفحص اﻹجراءات، واتخاذ اﻹجراءات التصحيحية."
+   },
+   {
+      "id": "124",
+      "lemma": "temporal",
+      "sentence1": "In a desertification early warning system, the spatial and temporal scales would be different.",
+      "arabic": "زمني",
+      "sentence2": "وقيل إنَّ عدم إدراج قيد زمني هو تدبير يتفق مع روح تلك الولاية."
+   },
+   {
+      "id": "125",
+      "lemma": "face",
+      "sentence1": "On the following day, Marcelo Atencia allegedly arrived home with his face terribly disfigured.",
+      "arabic": "مواجهة",
+      "sentence2": "ويتسم الأطفال خصوصاً بالضعف في مواجهة الصدمات النفسية وقد فصلوا في بعض الحالات عن أسرهم."
+   },
+   {
+      "id": "126",
+      "lemma": "flash",
+      "sentence1": "Greater use should also be made of CD-ROM and flash memory technology.",
+      "arabic": "نور",
+      "sentence2": "وفي الليل لا أريد أن أرى نور المصابيح الكاشفة."
+   },
+   {
+      "id": "127",
+      "lemma": "run",
+      "sentence1": "For very pragmatic reasons, in the short run, it might be rational to search for a compromise; however, in the long run, the clear solution is universal participation in the Rome Statute.",
+      "arabic": "الأجل",
+      "sentence2": "وهذه التكاليف غير المقيسة قد تفوق بكثير في الأجل الطويل الفوائد المقيسة التي تتحقق في الأجل القصير."
+   },
+   {
+      "id": "128",
+      "lemma": "technically",
+      "sentence1": "The humanitarian emergency caused by this category of ERW is technically speaking mainly the combination of the presence of high explosives and a very sensitive fuse system which has been activated.",
+      "arabic": "تقنياً",
+      "sentence2": "وذكر في المقام الثاني أنه لما كانت الألغام الأرضية لا تعتبر من أسلحة الدمار الشامل كما هو الحال بالنسبة إلى الأسلحة البيولوجية أو الكيميائية، فإنه من العسير تقنياً إنشاء آلية تحقق في الميدان تتميّز بالفعالية من حيث التكاليف."
+   },
+   {
+      "id": "129",
+      "lemma": "technically",
+      "sentence1": "The humanitarian emergency caused by this category of ERW is technically speaking mainly the combination of the presence of high explosives and a very sensitive fuse system which has been activated.",
+      "arabic": "التقنية",
+      "sentence2": "وينبغي أيضاً أن تراعي قرارات الخصخصة وجود جهة تقوم بتنظيم خدمات المياه والإصحاح وتكون كفوءة من الناحية التقنية، يمكن إشراكها في تصميم الامتياز الممنوح."
+   },
+   {
+      "id": "130",
+      "lemma": "paced",
+      "sentence1": "However, while trade liberalization should be paced in a way that reflects, inter alia, its potential impact on women, this does not mean that inefficient or non-competitive business sectors should be protected just because they provide employment to women.",
+      "arabic": "يضبطوا وتيرة",
+      "sentence2": "وإنني أحث الحكومات وشركاءها الدوليين على أن يضبطوا وتيرة برامج الإصلاح المؤسسي ويحددوا مراحلها ويكيّفوها بعناية، مع تحقيق التوازن بين الدعم الطويل الأجل لبناء المؤسسات والحاجة إلى تحقيق نتائج مبكرة وملموسة من خلال إعادة تفعيل المهام الحكومية الأساسية وتقديم الخدمات."
+   },
+   {
+      "id": "131",
+      "lemma": "products",
+      "sentence1": "It is the international community whom we expect to support our endeavours and accept the final products that come out of this body in the form of international instruments.",
+      "arabic": "والمنتجات",
+      "sentence2": "وذكر على سبيل المثال أن حرية تجارة النسيج والمنتجات الزراعية أوقفت المنتجين في البلدان الشمالية."
+   },
+   {
+      "id": "132",
+      "lemma": "dimension",
+      "sentence1": "New forms of crime have emerged, and both crime and offenders have taken on an international dimension.",
+      "arabic": "أبعاده",
+      "sentence2": "كما علق المشاركون أهمية حاسمة على الحكم الجيد لجميع أبعاده."
+   },
+   {
+      "id": "133",
+      "lemma": "surges",
+      "sentence1": "Noting that hazards in Bangladesh include floods, storm surges, droughts, and increasing salinity, he gave examples of technologies existing in Bangladesh to reduce risk.",
+      "arabic": "طفرة",
+      "sentence2": "وحدثت طفرة في معدل انتشار الفقر والحرمان والبطالة وتآكل رأس المال الاجتماعي."
+   },
+   {
+      "id": "134",
+      "lemma": "sequence",
+      "sentence1": "A sequence of interrogations may threaten to become a form of brainwashing.",
+      "arabic": "تسلسل",
+      "sentence2": "وبينما لم ترد سوى تقارير قليلة عن المظاهرات التي نُظِّمت داخل المقاطعات، فقد أمكن الحصول على تقرير مفصَّل، تؤكده مصادر موثوقة ومستقلة، عن تسلسل الأحداث التي شهدتها يانغون في الفترة من 18 إلى 25 أيلول/سبتمبر."
+   },
+   {
+      "id": "135",
+      "lemma": "lying",
+      "sentence1": "Two hours after the arrest, his father allegedly saw him lying unconscious with signs of blows all over his body.",
+      "arabic": "تكمن",
+      "sentence2": "وفي رأي اليابان، فإن إمكانية تحقيق نتيجة ملموسة تكمن في النهج الثاني فقط."
+   },
+   {
+      "id": "136",
+      "lemma": "likely",
+      "sentence1": "These trends seem likely to accelerate in the years ahead as a result of the emphasis upon English in business, information technology, science, media and other spheres of activity.",
+      "arabic": "على اﻷرجح",
+      "sentence2": "أما السجناء من ذوي الموارد المالية، فهم على اﻷرجح يستطيعون أن يحصلوا على معاملة كريمة."
+   },
+   {
+      "id": "137",
+      "lemma": "operational",
+      "sentence1": "The ongoing discussions for the establishment of a rapidly deployable operational headquarters team in the Secretariat were a further indication of the common desire to improve the efficiency of operations through timely intervention to save lives and property in conflict areas .",
+      "arabic": "وتشغيلية",
+      "sentence2": "إن مطلب ضرورة التزام منظمة ما باﻻمتثال لجميع اﻷنظمة البيئية المنطبقة قد يتضمن اضطرارها إلى تكبد نفقات رأسمالية وتشغيلية إضافية."
+   },
+   {
+      "id": "138",
+      "lemma": "cells",
+      "sentence1": "As such, a similar proposal to assess feasibility of hydrogen fuel cells in mass transit systems is forthcoming from Mexico City authorities.",
+      "arabic": "الزنزانة",
+      "sentence2": "ودخل جندي في الزنزانة في اليوم الرابع واغتصبها."
+   },
+   {
+      "id": "139",
+      "lemma": "heights",
+      "sentence1": "Knowing the precise position and time of landslips, sea-level changes and water heights in rivers and lakes makes it possible to monitor changes.",
+      "arabic": "قمة",
+      "sentence2": "كذلك، فإن التجاهل المتعمد لحقيقة أن جميع الضحايا متساوون يمثل قمة التبلد الأخلاقي والسياسي."
+   },
+   {
+      "id": "140",
+      "lemma": "heights",
+      "sentence1": "Knowing the precise position and time of landslips, sea-level changes and water heights in rivers and lakes makes it possible to monitor changes.",
+      "arabic": "ذروة",
+      "sentence2": "ففي ذروة العمليات العدائية استدعى بلدنا أطفالا من الدول المتأثرة بدمار الحرب لتلقي إعادة التأهيل الصحي في بيلاروس."
+   },
+   {
+      "id": "141",
+      "lemma": "illiterate",
+      "sentence1": "Unfortunately, women constituted 70 per cent of the illiterate population and were the first victims of inequality.",
+      "arabic": "الأُميين",
+      "sentence2": "وختاما أشارت إلى أن النساء يشكلن 43.5 من مجموع الأُميين في زامبيا."
+   },
+   {
+      "id": "142",
+      "lemma": "illiterate",
+      "sentence1": "Unfortunately, women constituted 70 per cent of the illiterate population and were the first victims of inequality.",
+      "arabic": "الأميين",
+      "sentence2": "ويوجد الآن 130 مليون طفل غير ملتحقين بالمدارس وسوف يصبحون شبان وشابات الغد الأميين."
+   },
+   {
+      "id": "143",
+      "lemma": "gather",
+      "sentence1": "Members of WJA gather at yearly regional seminars and biennial conferences to present educational and informational reports on the developments in every area of law.",
+      "arabic": "جمعتها",
+      "sentence2": "وتستند المناقشة إلى المعلومات التي جمعتها المقررة الخاصة ومكتب مفوض اﻷمم المتحدة السامي/مركز حقوق اﻹنسان في زغرب، وكذلك إلى معلومات قدمتها حكومة كرواتيا، بما فيها المعلومات الواردة في مذكرة مؤخرة ٩١ كانون اﻷول/ديسمبر ٦٩٩١ موجهة إلى المقررة الخاصة."
+   },
+   {
+      "id": "144",
+      "lemma": "burned",
+      "sentence1": "Moreover, over 1,000 houses were burned while several cases of destruction, pillage and inhumane treatment were recorded.",
+      "arabic": "وأحرقت",
+      "sentence2": "وكان بعض تلك القرى يضم مئات المنازل التي أضرمت فيها النيران وأحرقت بالكامل."
+   },
+   {
+      "id": "145",
+      "lemma": "manipulate",
+      "sentence1": "The capacity of national experts to access, analyse and manipulate biophysical, hydrological and socio-economic data for the purposes of vulnerability and adaptation assessment should be enhanced.",
+      "arabic": "تستغلها",
+      "sentence2": "وقال إن مشروع القرار هو أداة سياسية تستغلها قلة من الدول الأعضاء هدفها الوحيد هو إشانة سمعة إسرائيل ورسم صورة شيطانية لها."
+   },
+   {
+      "id": "146",
+      "lemma": "choked",
+      "sentence1": "Şahide Goekce reported to the police without her husband being present that he had choked her and threatened to kill her.",
+      "arabic": "تخنق",
+      "sentence2": "فهذه القيود تخنق الاقتصاد، وتحد من التجارة، وتحول دون تكوين شراكات مع بلدان أخرى للنهوض بالقدرات والتنمية الفلسطينية، وتقلص الأثر المتوخى من دعم المانحين ومشاريع التعاون التقني، وتؤدي إلى استدامة العجز المالي."
+   },
+   {
+      "id": "147",
+      "lemma": "choked",
+      "sentence1": "Şahide Goekce reported to the police without her husband being present that he had choked her and threatened to kill her.",
+      "arabic": "خانقا",
+      "sentence2": "فهذا المشروع غير القانوني لا يبنى على الخط الأخضر ولكن على الأرض الفلسطينية، خانقا سبل عيش آلاف الفلسطينيين ومحدثا لهم من الناحية الفعلية وضعا شبيها بالغيتو."
+   },
+   {
+      "id": "148",
+      "lemma": "breathe",
+      "sentence1": "People need clean air to breathe, safe water to drink, healthy food to eat, energy to produce and transport goods, and natural resources that provide the raw materials for all these services.",
+      "arabic": "التنفس",
+      "sentence2": "وقيل إنه تعرﱠض للضرب بقسوة جعلته ﻻ يستطيع التنفس إﻻ بصعوبة."
+   },
+   {
+      "id": "149",
+      "lemma": "breathe",
+      "sentence1": "People need clean air to breathe, safe water to drink, healthy food to eat, energy to produce and transport goods, and natural resources that provide the raw materials for all these services.",
+      "arabic": "التنفس",
+      "sentence2": "وقالت إحداهن أنها شعرت بأنه يمكنها التنفس لأول مرة بالفعل."
+   },
+   {
+      "id": "150",
+      "lemma": "slamming",
+      "sentence1": "First, three rockets were fired on the night of 11 September, one of them slamming into a shipping container in the main peacekeepers' compound in the east of the city.",
+      "arabic": "وغلقه",
+      "sentence2": "وحبسوه في زنزانة بمفرده كان جندي يقوم من حين لآخر خلال النهار بفتح بابها وغلقه، فتلفعه موجة من البرد الشديد."
+   },
+   {
+      "id": "151",
+      "lemma": "thinly",
+      "sentence1": "The group said that the bullets were actually made of steel and thinly coated with rubber.",
+      "arabic": "وقليلة",
+      "sentence2": "وهذه منطقة نائية وقليلة السكان لا تتوفر فيها سوى هياكل أساسية أو خدمات حكومية قليلة."
+   },
+   {
+      "id": "152",
+      "lemma": "stubs",
+      "sentence1": "Mice corpses, cigarette stubs, glass, asphalt and stones were regularly found in the food served to these inmates.",
+      "arabic": "وأرومة",
+      "sentence2": "ويجب أن تكون هذه الطلبات مصحوبة بالإيصالات الأصلية والفواتير، والسندات المستعملة وأرومة التذاكر وبطاقات الصعود إلى الطائرة."
+   },
+   {
+      "id": "153",
+      "lemma": "stubs",
+      "sentence1": "Mice corpses, cigarette stubs, glass, asphalt and stones were regularly found in the food served to these inmates.",
+      "arabic": "وأرومة",
+      "sentence2": "ولا بد أن تُشفع المطالبات لتسديد تكاليف السفر باستمارة الإذن بالسفر الأصلية، وأرومة تذاكر السفر وكل إيصالات النقل وتكاليف الحقائب الزائدة، فضلا عن إيصالات التكاليف الأخرى التي يطالبون بسدادها."
+   },
+   {
+      "id": "154",
+      "lemma": "stoppers",
+      "sentence1": "Among the souvenirs offered are small glass vials with gold stoppers, containing local diamonds.",
+      "arabic": "وقف",
+      "sentence2": "ويعمل كل عنصر مع مجتمع الأعمال المحلي والمواطنين لتكوين وعي عام باستخدام نظام دعاة وقف الجريمة دون الكشف عن المصدر وإتاحته."
+   },
+   {
+      "id": "155",
+      "lemma": "overwhelmed",
+      "sentence1": "Small criminal justice systems are easily overwhelmed in terms of police, courts and prisons.",
+      "arabic": "يسحق",
+      "sentence2": "ثالثاً، يسحق الجوع والفقر المدقع والعِوز والجهل والمرض والأوبئة غير المعروفة سابقاً أناساً عديدين في جميع أنحاء العالم."
+   },
+   {
+      "id": "156",
+      "lemma": "peculiarly",
+      "sentence1": "The private international law questions arising in the field of insolvency were peculiarly novel and complex.",
+      "arabic": "بشكل خاص",
+      "sentence2": "وفي حالة أفريقيا، فقد تمتعت منطقة البحر الكاريبي على الدوام بعلاقة تكافلية بشكل خاص مع أفريقيا."
+   },
+   {
+      "id": "157",
+      "lemma": "unused",
+      "sentence1": "Upon the end of their service, eligible staff members are entitled to be paid for any unused vacation days up to a maximum of 60 days and repatriation benefits based on the number of years of service.",
+      "arabic": "غير المستغلة",
+      "sentence2": "ويمكن بعد ثلاث سنوات إعلان هذه الأرض غير المستغلة أرضا مهجورة وفقا لقانون الأراضي العثماني، وتنتقل الملكية إلى الدولة."
+   },
+   {
+      "id": "158",
+      "lemma": "constriction",
+      "sentence1": "A reduction in the effectiveness of the work of the Special Committee and the constriction of its role will evidently lead to an ongoing escalation of violence on the part of Israel.",
+      "arabic": "وتقلص",
+      "sentence2": "أما عند ملامسة هذه المبيدات للعين فيحدث ألم وإدماء وإفراز للدموع وتقلص البؤبؤ وتشوش في النظر."
+   },
+   {
+      "id": "159",
+      "lemma": "pleases",
+      "sentence1": "Once the barlake has been paid, there is often the belief that a wife is the property of the husband, to do with as he pleases.",
+      "arabic": "راضياً",
+      "sentence2": "وستستمر حكومة بيلاروس في العمل من أجل مصلحة شعبها، ولا يهمّنا إن كان الاتحاد الأوروبي راضياً أم غير راضٍ عن تلك السياسة."
+   },
+   {
+      "id": "160",
+      "lemma": "civilisations",
+      "sentence1": "In the long course of history, the Chinese and African peoples, with an unyielding and tenacious spirit, created splendid and distinctive ancient civilisations.",
+      "arabic": "والحضارات",
+      "sentence2": "وأكد الوزراء مجددًا أن الحوار بين الثقافات والحضارات والأديان يجب أن يكون عملية مستمرة، وأنه في المحيط الدولي القائم اليوم لا يعد ذلك خياراً بل ضرورة حتمية وأداة سليمة ومنتجة لتشجيع التنمية الاقتصادية والاجتماعية والسلم والأمن وحقوق الإنسان وسيادة القانون لضمان حياة أفضل للجميع."
+   },
+   {
+      "id": "161",
+      "lemma": "cookie",
+      "sentence1": "Soft loans were available for home-based enterprises, such as cookie and noodle factories, catfish rearing, etc, with a very low interest rates.",
+      "arabic": "كعكة",
+      "sentence2": "وختم كلامه قائلا إنه يود أن يطلع الحاضرين على الرسالة التي صادفها في كعكة الحظ الصينية التي قدمت إليه في عشائه الليلة الماضية، وهي: "قد تكون الشراكة عسيرة، ولكنها أشرف من الهيمنة"."
+   },
+   {
+      "id": "162",
+      "lemma": "aloft",
+      "sentence1": "Sulphur and nitrogen, carried aloft by air currents, can lead to the formation of acid rain which may fall to Earth hundreds and thousands of kilometres from their source regions.",
+      "arabic": "الطيران",
+      "sentence2": "كما أبلغت اللجنة بأن الطائرات العمودية المستخدمة لأغراض الرصد لها ساعات طيران محدودة وقدرة محدودة على الطيران الليلي، في حين تتوفر للمنظومة الجوية الذاتية التشغيل القدرة على الطيران لعدة ساعات واختراق الغطاء الحرجي والأرض لتحديد آثار أنشطة الجماعات المسلحة ومخابئ الأسلحة."
+   },
+   {
+      "id": "163",
+      "lemma": "tab",
+      "sentence1": "Its core functions are to keep a tab on all matters concerning security, decide what actions to take for national security and be able to tackle problems before they arise, unlike the May 19 situation.",
+      "arabic": "المؤشر",
+      "sentence2": "وبإمكان المشاركين اختيار فئة الوثائق التي يودون استعراضها وذلك باختيار المؤشر المناسب، ثم لاستعراض وثيقة معينة باختيار عنوان الوثيقة المطلوبة المعروض على الشاشة."
+   },
+   {
+      "id": "164",
+      "lemma": "gut",
+      "sentence1": "Further, ethyl mercury is actively excreted via the gut unlike methyl mercury that accumulates in the body.",
+      "arabic": "القناة الهضمية",
+      "sentence2": "تمتص مركبات ثلاثي بوتيل القصدير من خلال القناة الهضمية (20 - 50 في المائة) وعن طريق جلد الثدييات (نحو 10 في المائة) ويمكن أن تتحول عبر حاجز الدم - المسخ."
+   },
+   {
+      "id": "165",
+      "lemma": "transport",
+      "sentence1": "Since the Ministry of Education has not been able to transport materials from warehouses to schools, 40 new trucks have been ordered to facilitate deliveries.",
+      "arabic": "نقل",
+      "sentence2": "وحيث ان المشتري لم يستطع تقديم ما يثبت وجود اتفاق على نقل البضائع بواسطة الشاحنات، وجدت المحكمة أن اختيار واسطة النقل كان قد ترك للبائع (المادة ٢٣(٢) من اتفاقية البيع)."
+   },
+   {
+      "id": "166",
+      "lemma": "transport",
+      "sentence1": "Since the Ministry of Education has not been able to transport materials from warehouses to schools, 40 new trucks have been ordered to facilitate deliveries.",
+      "arabic": "لنقل",
+      "sentence2": "وهناك أيضا نقص شديد في الشاحنات اللازمة لنقل اﻹمدادات من بغداد إلى مستودعات المحافظات."
+   },
+   {
+      "id": "167",
+      "lemma": "subside",
+      "sentence1": "The transparent and swift manner in which the Turkish Cypriot side addressed the issue allowed tensions to subside.",
+      "arabic": "وهدأت",
+      "sentence2": "وهدأت وتيرة الانتعاش الاقتصادي في الاتحاد الروسي بانخفاض الطلب العالمي على النفط."
+   },
+   {
+      "id": "168",
+      "lemma": "relieve",
+      "sentence1": "And fourth, there is an urgent need to relieve the pressure on the former Yugoslav Republic of Macedonia, which otherwise risks destabilization.",
+      "arabic": "وسيخفف",
+      "sentence2": "وسيخفف هذا النقل من عبء القضايا المعروضة على المحكمة وسيعجل بإتمام ولايتها."
+   },
+   {
+      "id": "169",
+      "lemma": "selling",
+      "sentence1": "Distribution of part-food and part-cash subsidies largely reduced the practice of selling food commodities to meet other needs.",
+      "arabic": "بيعها",
+      "sentence2": "وفي هذه البلدان ﻻ تقوم شركات نقل الكهرباء وتوزيعها بشراء الكهرباء أو بيعها بل تنقلها وحسب مقابل رسم منظم قانونا."
+   },
+   {
+      "id": "170",
+      "lemma": "dispensed",
+      "sentence1": "Oral contraceptives are dispensed from pharmacies against a prescription by a medical practitioner.",
+      "arabic": "لنشر",
+      "sentence2": "ولمعالجة أوجه الظلم والإهانات العديدة التي تعاني منها الشعوب الأصلية في نظام العدالة، جربت وسائل بديلة لنشر العدالة وحسم النـزاعات الاجتماعية في الكثير من البلدان."
+   },
+   {
+      "id": "171",
+      "lemma": "graduating",
+      "sentence1": "Between 1982 and 1995, the proportion of women graduating from the National Institute of Technical and Vocational Training (INFOTEP) increased from 24 to 39 per cent, i.e. by 1 per cent per year, compared with a rise from 39 to 44 per cent between 1995 and 1997, i.e. an annual increase of about 2 per cent.",
+      "arabic": "خريجو",
+      "sentence2": "ويؤدي خريجو مؤسسات التعليم العالي الذين لم يتلقوا درساً في التعليم العسكري، الخدمة في الجيش لمدة ستة أشهر."
+   },
+   {
+      "id": "172",
+      "lemma": "finished",
+      "sentence1": "The project eventually finished after five years owing to changing priorities of the Government.",
+      "arabic": "أنهت",
+      "sentence2": "وفيما يتعلق بمخصصات ضمان اﻷداء المحتجزة على مشروع الديوانية، تبين اﻷدلة أن شركة كونتينانتال المحدودة للبناء قد أنهت عملها في هذا المشروع في وقت مبكر يعود إلى عام ١٩٨٤."
+   },
+   {
+      "id": "173",
+      "lemma": "surety",
+      "sentence1": "They also offered a surety for an agreed amount as a condition for bail.",
+      "arabic": "كفالة",
+      "sentence2": "وخــلال اﻻنتفاضة، استخدم نفس اﻷساليب، بما في ذلك مطالبة اﻵباء بدفع كفالة، وهي الكفالة التي يفقدونها إن قُبض على الطفل وهو يكرر الهجوم بالحجارة."
+   },
+   {
+      "id": "174",
+      "lemma": "intelligence",
+      "sentence1": "Military intelligence, criminal investigation police and members of the armed forces also allegedly used torture on a widespread basis, against both political suspects and common law detainees.",
+      "arabic": "والمعلومات الاستخبارية",
+      "sentence2": "وكانت المساعدة المقدمة الى الحكومات عادة في شكل تبادل المعلومات والمعلومات الاستخبارية، وبرامج التدريب، ومؤتمرات عن مكافحة المنشطات الأمفيتامينية، والعمليات المشتركة، والتسليم المراقب، ونقل التكنولوجيا، وايفاد خبراء في مكافحة المنشطات الأمفيتامينية."
+   },
+   {
+      "id": "175",
+      "lemma": "intelligence",
+      "sentence1": "Military intelligence, criminal investigation police and members of the armed forces also allegedly used torture on a widespread basis, against both political suspects and common law detainees.",
+      "arabic": "معلومات سرية",
+      "sentence2": "ويفيد ملفه بأنه قام أثناء وجوده في التيبت بتجميع معلومات سرية من لاسا، وشانان، ونيغنتشي، وشيغازيه، وأماكن أخرى بهدف توصيلها بعد مغادرة البلد إلى حاشية الدالاي لاما وإلى وكالات أجنبية، كما يفيد بأنه حرض على الانفصال."
+   },
+   {
+      "id": "176",
+      "lemma": "clearing",
+      "sentence1": "Prisoners in chain gangs were reportedly required to perform heavy manual labour, such as rock-breaking or clearing rubbish from the highway, while shackled together (or with their own legs chained together) with metal chains, exposed to the public.",
+      "arabic": "وصدرت",
+      "sentence2": "وصدرت لجميع المحتجزين شهادات طبية تقرر سلامتهم وقدرتهم على تحمل المحاكمة."
+   },
+   {
+      "id": "177",
+      "lemma": "confess",
+      "sentence1": "Personally and professionally speaking, the experience has been interesting, although I must confess that it was a complex task: it was difficult to identify -- and especially to find agreement on -- positions that would promote Security Council reform and would address the specific issues involved in that reform.",
+      "arabic": "الاعتراف",
+      "sentence2": "وزعم أنه كان يقتاد ليلا خارج زنزانته ويعذب لحمله على الاعتراف بارتكاب جرائم، من بينها جريمة القتل العمد."
+   },
+   {
+      "id": "178",
+      "lemma": "resigned",
+      "sentence1": "The Presiding Judge for a major ongoing trial also resigned in March 2004 for medical reasons.",
+      "arabic": "استقال",
+      "sentence2": "وقد أبلغت لاحقا بأن السيد لانغان استقال من الفريق لأسباب شخصية."
+   },
+   {
+      "id": "179",
+      "lemma": "association",
+      "sentence1": "Meetings were held, in association with Successful Meetings magazine, New York, with leading professional association representatives.",
+      "arabic": "رابطات",
+      "sentence2": "وتدير البيوت المذكورة الدوائر اﻹقليمية أو رابطات المعوقين الحاصلة على إجازات تشغيل."
+   },
+   {
+      "id": "180",
+      "lemma": "young",
+      "sentence1": "Female inmates and young offenders are separated from adult male inmates.",
+      "arabic": "الشابين",
+      "sentence2": "وعلى غرار جميع المدنيين اﻹريتريين المحتجزين في معسكرات اﻻعتقال في إثيوبيا، تم احتجاز الشابين اﻹريتريين بطريقة غير قانونية ودون اتباع اﻹجراءات القانونية الواجبة."
+   },
+   {
+      "id": "181",
+      "lemma": "promoting",
+      "sentence1": "The services offered by the various organizations promoting social intercourse are available to all Hamburg's non—German inhabitants.",
+      "arabic": "توثيق",
+      "sentence2": "ونعمل بنشاط على توثيق التــعاون وتعزيز التحرر اﻻقتصادي على الصعيد اﻹقليمي من خــﻻل أطر منطقة التجارة الحرة لرابطة أمم جنوب شــرقي آسيا ومجلس التعاون اﻻقتصادي ﻵسيا والمحيــط الهادئ ومشروعات التنميــة المتنوعة على الصعيد دون اﻹقليمي."
+   },
+   {
+      "id": "182",
+      "lemma": "firmly",
+      "sentence1": "The fluting or corrugated fibreboard shall be firmly glued to the facings.",
+      "arabic": "بحزم",
+      "sentence2": "وما زال يعارض بحزم أي تشديد لقواعد وإجراءات تطبيق المادة ١٩."
+   },
+   {
+      "id": "183",
+      "lemma": "original",
+      "sentence1": "GNSS technology has matured into a resource that goes far beyond its original design goals.",
+      "arabic": "اﻷصلية",
+      "sentence2": "وﻻ يوجد لدى الفريق اليوم ما يقدمه غير المبادئ التوجيهية المقترحة اﻷصلية."
+   },
+   {
+      "id": "184",
+      "lemma": "original",
+      "sentence1": "GNSS technology has matured into a resource that goes far beyond its original design goals.",
+      "arabic": "اﻷصلي",
+      "sentence2": "غير أن الرأي السائد كان أن عبارة "العقد اﻷصلي" مقبولة ما دامت تلك العبارة معرّفة."
+   },
+   {
+      "id": "185",
+      "lemma": "Act",
+      "sentence1": "The new Act on Prohibition of Unfair and Restrictive Market Practices would come into force on 1 January 1997.",
+      "arabic": "اﻷعمال",
+      "sentence2": "وإن اﻻحجام عن ذلك سيسيء مرتكبو اﻷعمال اﻹرهابية فهمه."
+   },
+   {
+      "id": "186",
+      "lemma": "outstanding",
+      "sentence1": "Outstanding debts for major operations that had ended more than two years earlier should be settled, and his delegation urged the States in arrears to pay their outstanding contributions in full.",
+      "arabic": "فائقة",
+      "sentence2": "وتحظى حماية الناس عن طريق القوانين المناهضة للتمييز بأهمية فائقة في القوانين والسياسة اﻷلمانية."
+   },
+   {
+      "id": "187",
+      "lemma": "settlement",
+      "sentence1": "Convinced that achieving a final and peaceful settlement of the question of Palestine, the core of the Arab-Israeli conflict, is imperative for the attainment of a comprehensive and lasting peace in the Middle East.",
+      "arabic": "المستوطنات",
+      "sentence2": "كما أن قرار الحكومة اﻹسرائيلية الذي يأذن بتوسيع المستوطنات ومصادرة اﻷراضي الفلسطينية وفتح نفق قرب المسجد اﻷقصى، تعتبر أيضاً جزءاً من هذه العملية."
+   },
+   {
+      "id": "188",
+      "lemma": "attack",
+      "sentence1": "That would represent an attack on their right to self-determination and independence, a new unilateral and colonialist measure by the United States Congress, which arbitrarily controlled their lives.",
+      "arabic": "للهجمات",
+      "sentence2": "إن كثافة سكانها ومراكزها الصناعية تجعل إسرائيل معرضة بصورة خاصة للهجمات."
+   },
+   {
+      "id": "189",
+      "lemma": "foreign",
+      "sentence1": "Moreover, foreign direct investment in the developing countries could foster the transfer of technology and improve their access to export markets.",
+      "arabic": "اﻷجانب",
+      "sentence2": "بيد أن لدى هذه المشاريع، بصرف النظر عن ملكيتها، روابط قوية مع الموردين اﻷجانب أكثر منه مع الشركات المحلية."
+   },
+   {
+      "id": "190",
+      "lemma": "foreign",
+      "sentence1": "Moreover, foreign direct investment in the developing countries could foster the transfer of technology and improve their access to export markets.",
+      "arabic": "اﻷجنبي",
+      "sentence2": "غير أنه أكد على أن اﻻتفاقية ﻻ تحد وﻻ تنال من حق الشعوب التي ترزح تحت نير اﻻحتلال اﻷجنبي في الكفاح من أجل استقﻻلها، وفقا ﻷحكام القانون الدولي وميثاق اﻷمم المتحدة."
+   },
+   {
+      "id": "191",
+      "lemma": "wondered",
+      "sentence1": "He wondered how the United Nations could reconcile those contrasting tensions.",
+      "arabic": "وتتساءل",
+      "sentence2": "وتتساءل الشعوب عن أثر العولمة على اهتماماتها اليومية وسعيها إلى الرفاهية."
+   },
+   {
+      "id": "192",
+      "lemma": "canes",
+      "sentence1": "Female field workers in the sugar industry are also not compelled to do cutting and loading of canes.",
+      "arabic": "بالعصي",
+      "sentence2": "وذكر أن التعذيب شمل الضرب بالعصي حتى فقدان الوعي، وإجباره على أكل برازه وعلى غسل جسمه بالماء والبراز؛ وجرحه على ركبتيه بموس حلاقة؛ وحلق رأسه بقطع زجاج مكسر."
+   },
+   {
+      "id": "193",
+      "lemma": "pictures",
+      "sentence1": "She also saw pictures of the uncovered bodies taken by independent sources.",
+      "arabic": "صورة",
+      "sentence2": "لذلك من الصعب تقديم صورة مكتملة للطريقة التي يمارس بها الحق المشمول بهذه المادة."
+   },
+   {
+      "id": "194",
+      "lemma": "intensive",
+      "sentence1": "The European Union welcomes the agreements reached after six months of intensive discussions on the proposals of the Secretary-General concerning the further steps to be taken to implement the Settlement Plan.",
+      "arabic": "مكثفاً",
+      "sentence2": "يتلقى الشركاء في أنشطة الزماﻻت تدريباً متخصصاً مكثفاً على عديد من قضايا حقوق اﻹنسان."
+   },
+   {
+      "id": "195",
+      "lemma": "certain",
+      "sentence1": "Ideally, there should be only one United Nations agency active in a certain area.",
+      "arabic": "المؤكد",
+      "sentence2": "والحال أنه من غير المؤكد أن تضم هاتان الفئتان كافة أصناف اﻷشخاص اﻻعتباريين."
+   },
+   {
+      "id": "196",
+      "lemma": "intellect",
+      "sentence1": "We rely on the vast experience gained by the United Nations over the decades, as well as on the will, intellect and wisdom of the community of nations.",
+      "arabic": "الفكر",
+      "sentence2": "وعلى وسائل الإعلام التي تشكل الفكر وتغذي العقول، أن تكون إيجابية في تناولها لمثل هذه المواضيع، مدركة تأثيرها على تشكيل الرأي المنصف والمستنير، ومؤمنة بترابط البشرية ووحدتها."
+   },
